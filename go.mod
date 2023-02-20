@@ -1,4 +1,4 @@
-module github.com/consensus
+module github.com/
 
 go 1.17
 
